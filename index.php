@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>my new devops lab project</h1>
+<h1>new devops lab application project</h1>
  
 <?php
-echo "Version: v1.2";
+echo "Version: v2.1";
 ?>
 
 </body>
